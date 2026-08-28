@@ -28,7 +28,19 @@ I'm **Gabriel Wong**, also known as [@not-wowmagic](https://github.com/not-wowma
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ## Featured Projects
@@ -50,10 +62,10 @@ I'm **Gabriel Wong**, also known as [@not-wowmagic](https://github.com/not-wowma
 
 ## GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=not-wowmagic&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-wowmagic&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/not-wowmagic?label=Followers&style=flat-square)](https://github.com/not-wowmagic?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-11-181717?logo=github&style=flat-square)](https://github.com/not-wowmagic?tab=repositories)
+
+I’m most active in projects involving **JavaScript/TypeScript, Python, React, Next.js, Firebase, and practical data-driven apps**. For the live contribution graph and latest activity, visit my [GitHub profile](https://github.com/not-wowmagic).
 
 ## Let's Connect
 
