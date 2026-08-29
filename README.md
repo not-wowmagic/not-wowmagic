@@ -79,7 +79,7 @@ I am open to internships, student collaborations, open-source work, freelance pr
 
 ## Outside development
 
-Reading, PC hardware, local AI models, gaming, basketball, fitness, music, philosophy, and astrophysics.
+When I am not working on a project, I usually spend time reading, watching films, checking out PC hardware, experimenting with local AI tools, playing games, working out, or listening to music.
 
 ## Contact
 
