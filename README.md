@@ -12,6 +12,18 @@ I work mainly with TypeScript, React, Next.js, Python, FastAPI, Firebase, Supaba
 - Offline-first and self-hosted tools
 - AI-assisted applications with validation and testing
 
+## Problems I care about
+
+I am interested in software that improves everyday student and community experiences:
+
+- [Studying and active recall](https://github.com/not-wowmagic/Quizify)
+- [Examinations and student assessment](https://github.com/not-wowmagic/QuickTest)
+- [Metro Manila commuting](https://github.com/not-wowmagic/Saan-Punta)
+- [School-event attendance](https://github.com/not-wowmagic/attendancething)
+- [Book discovery and access to reading trends](https://github.com/not-wowmagic/BookPulse)
+- [Learning programming through practice](https://github.com/not-wowmagic/DevStack)
+- [Community traditions and social connection](https://github.com/not-wowmagic/tikoy-pass-around)
+
 ## Tech stack
 
 ### Languages
@@ -80,13 +92,44 @@ I work mainly with TypeScript, React, Next.js, Python, FastAPI, Firebase, Supaba
 - Building accessible and reliable applications
 - Learning by shipping, testing, and improving practical projects
 
-## Development approach
+## Availability
 
-I use AI tools for prototyping, code generation, refactoring, and documentation. I also review the results, write tests, validate behavior, and make the final design decisions.
+I am open to internships, student collaborations, open-source work, freelance projects, and junior development opportunities involving practical software.
+
+## How I work
+
+- Start with a real user problem
+- Keep setup and interfaces simple
+- Test critical user flows and failure states
+- Treat privacy and security as product requirements
+- Document limitations honestly
+- Improve projects through use, feedback, and iteration
+
+## Testing and quality
+
+I use unit tests, deterministic browser tests, type checking, linting, and production builds to verify important behavior. I also test accessibility, failure states, security boundaries, and responsive layouts when the project requires them.
+
+## Security interests
+
+I am developing practical experience with input validation, server-only credentials, rate limiting, bot protection, SSRF defenses, local-network access controls, and privacy-conscious data handling.
+
+## Homelab and self-hosting
+
+I run and maintain Docker-based services on Windows and WSL2. This has given me experience with container networking, persistent storage, service configuration, local-network access, backups, and troubleshooting.
+
+## AI development
+
+I experiment with hosted and local language models, structured model outputs, provider fallbacks, prompt validation, and deterministic testing around AI features. I use AI tools for prototyping, code generation, refactoring, and documentation.
+
+I review the results, write tests, validate behavior, and make the final design decisions.
+
+## Outside development
+
+I am interested in reading, PC hardware, local AI models, gaming, basketball, fitness, music, philosophy, and astrophysics.
 
 ## Contact
 
 - GitHub: [@not-wowmagic](https://github.com/not-wowmagic)
 - Email: available through my GitHub profile
 
-Thanks for visiting. Feel free to explore my repositories.
+I am open to working with students, developers, and organizations building practical tools for education and everyday Philippine use.
