@@ -1,28 +1,21 @@
 # Gabriel Wong
 
-BSIT student and full-stack developer building practical software for education, commuting, communities, and everyday problems.
+BSIT student and full-stack developer building practical software for education, commuting, and everyday Philippine use.
 
-I work mainly with TypeScript, React, Next.js, Python, FastAPI, Firebase, Supabase, and SQLite. I care about usable interfaces, real user flows, security, accessibility, and reliable deployment.
+I work with TypeScript, React, Next.js, Python, FastAPI, Firebase, Supabase, and SQLite. I care about simple interfaces, tested user flows, privacy, accessibility, and reliable deployment.
 
-## What I build
+## Problems and projects
 
-- Education tools and study systems
-- Philippine-focused web applications
-- Data-driven dashboards and utilities
-- Offline-first and self-hosted tools
-- AI-assisted applications with validation and testing
+| Problem | Project | What it does |
+|---|---|---|
+| Studying and active recall | [Quizify](https://github.com/not-wowmagic/Quizify) | Turns notes, documents, URLs, and photos into interactive AI-generated quizzes. |
+| Metro Manila commuting | [Saan-Punta](https://github.com/not-wowmagic/Saan-Punta) | Compares public transport routes and estimates fares. |
+| School-event attendance | [attendancething](https://github.com/not-wowmagic/attendancething) | Runs offline-first attendance with roster matching and exports. |
+| Book discovery | [BookPulse](https://github.com/not-wowmagic/BookPulse) | Combines public data sources, metadata, and trend scoring. |
+| Student assessment | [QuickTest](https://github.com/not-wowmagic/QuickTest) | Supports student, administrator, scoring, and analytics workflows. |
+| Programming education | [DevStack](https://github.com/not-wowmagic/DevStack) | Provides lessons, examples, and an in-browser editor. |
 
-## Problems I care about
-
-I am interested in software that improves everyday student and community experiences:
-
-- [Studying and active recall](https://github.com/not-wowmagic/Quizify)
-- [Examinations and student assessment](https://github.com/not-wowmagic/QuickTest)
-- [Metro Manila commuting](https://github.com/not-wowmagic/Saan-Punta)
-- [School-event attendance](https://github.com/not-wowmagic/attendancething)
-- [Book discovery and access to reading trends](https://github.com/not-wowmagic/BookPulse)
-- [Learning programming through practice](https://github.com/not-wowmagic/DevStack)
-- [Community traditions and social connection](https://github.com/not-wowmagic/tikoy-pass-around)
+Also built: [tikoy-pass-around](https://github.com/not-wowmagic/tikoy-pass-around), a Filipino-Chinese New Year web experience for sharing virtual Tikoy and lucky messages.
 
 ## Tech stack
 
@@ -70,66 +63,25 @@ I am interested in software that improves everyday student and community experie
 ![Spotipy](https://img.shields.io/badge/Spotipy-1DB954?style=flat-square&logo=spotify&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
 
-## Featured projects
+## How I build
 
-| Project | Description | Technologies |
-|---|---|---|
-| [Quizify](https://github.com/not-wowmagic/Quizify) | AI-powered study app that turns notes, documents, URLs, and photos into interactive quizzes. | Next.js, TypeScript, AI, Supabase |
-| [Saan-Punta](https://github.com/not-wowmagic/Saan-Punta) | Metro Manila commute planner with route comparison and fare estimates. | React, Vite, Leaflet, OpenStreetMap |
-| [attendancething](https://github.com/not-wowmagic/attendancething) | Offline-first attendance system for school events with roster matching and exports. | Python, FastAPI, SQLite |
-| [BookPulse](https://github.com/not-wowmagic/BookPulse) | Book discovery app that combines public data sources, metadata, and trend scoring. | React, Vite, Redis, Supabase |
+I start with a real user problem, keep setup and interfaces simple, and test critical user flows and failure states.
 
-## Other projects
+My projects have given me practical experience with unit and browser testing, CI workflows, accessibility checks, rate limiting, input validation, server-only credentials, SSRF defenses, and privacy-conscious data handling.
 
-- [QuickTest](https://github.com/not-wowmagic/QuickTest): Examination platform with student, administrator, scoring, and analytics workflows.
-- [DevStack](https://github.com/not-wowmagic/DevStack): Interactive programming learning workspace with lessons and an in-browser editor.
-- [tikoy-pass-around](https://github.com/not-wowmagic/tikoy-pass-around): Filipino-Chinese New Year web app for sharing virtual Tikoy and lucky messages.
+I also run Docker-based services through Windows and WSL2 and experiment with hosted and local language models. I use AI tools during development, but I review the output, verify behavior, and make the final design decisions.
 
-## Current focus
+## Current focus and availability
 
-- Improving Quizify and BookPulse
-- Strengthening my backend, database, and security skills
-- Building accessible and reliable applications
-- Learning by shipping, testing, and improving practical projects
+I am improving my backend, database, security, and AI evaluation skills while continuing work on Quizify and BookPulse.
 
-## Availability
-
-I am open to internships, student collaborations, open-source work, freelance projects, and junior development opportunities involving practical software.
-
-## How I work
-
-- Start with a real user problem
-- Keep setup and interfaces simple
-- Test critical user flows and failure states
-- Treat privacy and security as product requirements
-- Document limitations honestly
-- Improve projects through use, feedback, and iteration
-
-## Testing and quality
-
-I use unit tests, deterministic browser tests, type checking, linting, and production builds to verify important behavior. I also test accessibility, failure states, security boundaries, and responsive layouts when the project requires them.
-
-## Security interests
-
-I am developing practical experience with input validation, server-only credentials, rate limiting, bot protection, SSRF defenses, local-network access controls, and privacy-conscious data handling.
-
-## Homelab and self-hosting
-
-I run and maintain Docker-based services on Windows and WSL2. This has given me experience with container networking, persistent storage, service configuration, local-network access, backups, and troubleshooting.
-
-## AI development
-
-I experiment with hosted and local language models, structured model outputs, provider fallbacks, prompt validation, and deterministic testing around AI features. I use AI tools for prototyping, code generation, refactoring, and documentation.
-
-I review the results, write tests, validate behavior, and make the final design decisions.
+I am open to internships, student collaborations, open-source work, freelance projects, and junior development opportunities.
 
 ## Outside development
 
-I am interested in reading, PC hardware, local AI models, gaming, basketball, fitness, music, philosophy, and astrophysics.
+Reading, PC hardware, local AI models, gaming, basketball, fitness, music, philosophy, and astrophysics.
 
 ## Contact
 
 - GitHub: [@not-wowmagic](https://github.com/not-wowmagic)
 - Email: available through my GitHub profile
-
-I am open to working with students, developers, and organizations building practical tools for education and everyday Philippine use.
