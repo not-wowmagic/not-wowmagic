@@ -15,7 +15,7 @@ I work with TypeScript, React, Next.js, Python, FastAPI, Firebase, Supabase, and
 | Student assessment | [QuickTest](https://github.com/not-wowmagic/QuickTest) | Supports student, administrator, scoring, and analytics workflows. |
 | Programming education | [DevStack](https://github.com/not-wowmagic/DevStack) | Provides lessons, examples, and an in-browser editor. |
 
-Also built: [tikoy-pass-around](https://github.com/not-wowmagic/tikoy-pass-around), a Filipino-Chinese New Year web experience for sharing virtual Tikoy and lucky messages.
+Also built: [Tikoy Pass-Around](https://tikoy-pass-around.gmawong10.workers.dev), a Filipino-Chinese New Year web experience for sharing virtual Tikoy and lucky messages. [Source](https://github.com/not-wowmagic/tikoy-pass-around).
 
 ## Tech stack
 
